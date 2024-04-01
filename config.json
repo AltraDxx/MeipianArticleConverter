@@ -1,0 +1,19 @@
+{
+    "fetch":{
+        "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    },
+    "docx":{
+        "common":{
+            "font_name_e":"Times New Roman",
+            "font_name_c":"宋体"
+        },
+        "title":{
+            "font_name":"宋体",
+            "font_size":16,
+            "bold":true,
+            "alignment":"center",
+            "first_line_indent":0.75,
+            "line_spacing_rule":1.5
+        }
+    }
+}

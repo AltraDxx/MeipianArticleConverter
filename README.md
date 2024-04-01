@@ -1,0 +1,1 @@
+Utilize requests to fetch articles from https://www.meipian.cn, then parse the images, text, and videos using BeautifulSoup. Finally, use docx to generate Word documents, with support for batch operations.
